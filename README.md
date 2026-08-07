@@ -1,2 +1,1 @@
-<img width="933" height="74" alt="image" src="https://github.com/user-attachments/assets/5c224e66-b577-490d-a68c-7845dc79f860" />
-
+<img width="1149" height="1369" alt="NetworkIQ" src="https://github.com/user-attachments/assets/fa3439d2-1716-4f94-b675-5c06cf68c90f" />
